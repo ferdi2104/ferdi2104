@@ -54,8 +54,8 @@ Saya adalah **mahasiswa Informatika di Universitas Mercu Buana Yogyakarta** dan 
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ferdi2104&show_icons=true&theme=radical&hide_border=true" alt="Statistik GitHub Ferdi" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdi2104&layout=compact&theme=radical&hide_border=true" alt="Bahasa yang paling sering dipakai" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ferdi2104&show_icons=true&theme=radical&hide_border=true" alt="Statistik GitHub Ferdi" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ferdi2104&layout=compact&theme=radical&hide_border=true" alt="Bahasa yang paling sering dipakai" />
 </p>
 
 <p align="center">

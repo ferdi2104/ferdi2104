@@ -56,12 +56,11 @@ Saya adalah **mahasiswa Informatika di Universitas Mercu Buana Yogyakarta** dan 
 
 <p align="center">
   <img src="https://github-readme-stats-sandy-tau-62.vercel.app/api?username=ferdi2104&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="195" alt="Statistik GitHub Ferdi" />
-  <img src="https://github-readme-stats-sandy-tau-62.vercel.app/api/top-langs/?username=ferdi2104&layout=donut&theme=radical&hide_border=true" height="195" alt="Grafik Donat Bahasa Pemrograman" />
+  <img src="https://streak-stats.demolab.com/?user=ferdi2104&theme=radical&hide_border=true" height="195" alt="Rentetan Kontribusi GitHub Ferdi" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ferdi2104&theme=radical&hide_border=true" height="195" alt="Rentetan Kontribusi GitHub Ferdi" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ferdi2104&theme=radical" height="195" alt="Grafik Komit per Bahasa" />
+  <img src="https://github-readme-stats-sandy-tau-62.vercel.app/api/top-langs/?username=ferdi2104&layout=donut&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide=Batchfile,PLpgSQL" height="215" alt="Grafik Donat Bahasa Pemrograman" />
 </p>
 
 <p align="center">

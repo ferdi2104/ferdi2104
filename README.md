@@ -35,6 +35,7 @@ Saya adalah **mahasiswa Informatika di Universitas Mercu Buana Yogyakarta** dan 
 
 | Proyek | Deskripsi | Stack |
 | :--- | :--- | :--- |
+| [The Wedding of Dwi &amp; Annisa](https://github.com/ferdi2104/-wedding-dwi-annisa) | Undangan pernikahan digital adat Sunda interaktif — audio latar lagu Sunda, animasi saung hidup &amp; kupu-kupu, galeri foto prewedding, amplop digital BCA, RSVP ucapan &amp; peta lokasi ([Live Demo](https://wedding-dwi-annisa.vercel.app)) | HTML5 · CSS3 · JavaScript · Vercel |
 | [KHAIRO TOURS & TRAVELS](https://github.com/ferdi2104/PT-KHAIRO-WISATA) | Website layanan umroh &amp; haji — multi-halaman, responsif, lengkap dengan paket, galeri, hotel, dan cara pemesanan | HTML · CSS · JavaScript |
 | [Portofolio](https://github.com/ferdi2104/portfolio1) | Repo tugas portofolio pribadi | HTML |
 | [Laba Pintar](https://github.com/ferdi2104/laba-pintar) | Proyek aplikasi web | HTML |
